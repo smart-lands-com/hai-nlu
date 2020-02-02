@@ -6,7 +6,7 @@ HAI-NLU是一款自然语言交互软件，通过内部的自然语言深度学�
 
 ### 软件安装
 
-从[Github](https://github.com/info-smart-lands/hai-nlu) 上下载源码.
+从[Github](https://github.com/smart-lands-com/hai-nlu) 上下载源码.
 
 安装依赖:
 ```sh
