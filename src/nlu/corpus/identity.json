@@ -1,0 +1,23 @@
+{"scenes": [
+        {"tag": "姓名",
+         "queries": ["你是", "是谁", "你是谁", "名字", "你叫什么"],
+         "responses": ["我是台灯", "我的名字叫台灯"],
+         "slot": "HAI-ID-A"
+        },
+        {"tag": "称谓",
+         "queries": ["台灯"],
+         "responses": ["哎", "是我"],
+         "slot": "HAI-ID-B"
+        },
+        {"tag": "版本",
+         "queries": ["版本", "你的版本"],
+         "responses": ["V5.0.0"],
+         "slot": "HAI-ID-C"
+        },
+        {"tag": "制造商",
+         "queries": ["制造", "制造商", "谁造的"],
+         "responses": ["该产品为数码大陆®授权制造，更多信息请访问：https://www.smart-lands.com/hai-nlu"],
+         "slot": "HAI-ID-D"
+        }
+   ]
+}
