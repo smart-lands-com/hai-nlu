@@ -27,9 +27,6 @@ $ python3 ./nlu/training.py
 
 运行软件:
 ```sh
-$ cd src
-```
-```sh
 $ python3 ./hai-nlu.py
 ```
 
